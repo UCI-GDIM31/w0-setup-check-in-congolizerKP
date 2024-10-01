@@ -6,19 +6,19 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-
+My name is Hudson Hollingsworth (He/Him). I've been playing games since I was like 5, and I started out mostly on strategy games. I have a lot of time in games of all genres, but I think my favorite genre is puzzle games, one of my favorites being A Monster's Expedition 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [x] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
-    - [ ] Other (please specify)
-
+    - [ X] Other (please specify)
+Hoping to transfer into Game Design, but not yet there.
 3. What are you hoping to get out of this class?
-   I am hoping to learn introductory programming, especially in UI controls.
+  I am hoping to gain the ability to actually eventually produce a game in the future, and mainly be able to write basic lines of code that will actually be used in game, namely for novel mechanics and game systems. I am also hoping to learn how game engines and systems work more specifically.
 5. What, if anything, are you nervous about for this class?
-   I am nervous because I do not have any experience with programming.
+  Probably just staying consistent wiht doing the work, I have a pretty bad tendency of not staying up to date with the work that's due.
 ## Prior Experience
 
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
@@ -26,7 +26,7 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-0
+One class on how computers work, included introductory coding which lasted about 3 weeks of the course.
 2. Game development (any engine)
 0
 3. Unity
@@ -41,11 +41,11 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
-N/A
+A document describing all of the etials and aspects of a game which will be tackled, and which will be handled by different parts of the team. Includes cycles.
 3. Scope management
-N/A
+Keeping a game within a certain "scope" by limiting the aspects you work on in order to make it more deliverable to the public.
 4. Iteration
-N/A
+   A version of a game
 5. Object-Oriented programming
 N/A
 6. Model-View-Controller architecture
